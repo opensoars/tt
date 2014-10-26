@@ -1,7 +1,7 @@
 tt
 ==
 
-
+[![Build Status](https://img.shields.io/travis/opensoars/tt.svg?style=flat)](https://travis-ci.org/opensoars/tt)
 
 ---
 
